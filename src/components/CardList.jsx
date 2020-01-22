@@ -2,6 +2,10 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({robots}) => {
+    // test error boundry
+    // if (true) {
+    //     throw new Error('noooo')
+    // }
     return (
         <div>
         {robots.map(robot => (
