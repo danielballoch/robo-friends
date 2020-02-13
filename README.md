@@ -14,7 +14,7 @@
 <h1 align="left">
   RoboFriends
 </h1>
-<p>A simple web app made with React. RoboFriends displays a responsive and searchable list of robots.</p>
+<p>A simple web app made with React & Redux. RoboFriends displays a responsive and searchable list of robots and was as good little project to learn the basics of redux.</p>
 
 
 
